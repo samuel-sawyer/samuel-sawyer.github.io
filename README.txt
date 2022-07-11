@@ -1,5 +1,5 @@
-A website customized by me, Samuel Sawyer. Here I compile some of my works completed in my time so
-far at Arizona State University and tell a bit about myself. Contact information and socials found at the
-bottom of the website.
+Edited by me, Samuel Sawyer, in HTML5. All images not taken by me are from Unslpash. Web template from HTML5UP.
+Thank you.
 
-Web template from https://html5up.net/strata.
+
+
